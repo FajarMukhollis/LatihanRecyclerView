@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Latihan RecyclerView</string>
+
+    <string name="anime_name">Nama Anime</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Demon Slayer (Kimetsu no Yaiba)</item>
+        <item>Black Clover</item>
+        <item>One Piece</item>
+        <item>Sword Art Online</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Bercerita tentang seorang bernama Tanjirou Kamado, pemuda sulung dari keluarga yang kurang mampu dan tinggal di pedalaman gunung pada era Taisho. Sejak dahulu, muncul rumor tentang Oni (Iblis Pemakan Manusia) yang bersembunyi di hutan. Dikarenakan hal itu, penduduk setempat tidak pernah berani keluar di malam hari. Legenda mengatakan bahwa Pembasmi Oni juga berkeliaran di malam hari dan memburu iblis yang haus darah. Bagi Tanjirou yang belum mengetahui apa-apa, hal itu hanyalah sekedar rumor belaka dan tidak akan menyebabkan masalah di kehidupannya. </item>
+        <item>Asta adalah seorang anak muda yang bermimpi menjadi penyihir terhebat di kerajaan. Tapi dia punya satu masalah, dia tidak bisa menggunakan sihir. Nasib baik menghampirinya karena mendapatkan Grimoire lima daun yang sangat langka “Black Clover” yang memberinya kekuatan anti-sihir. Meskipun dia tidak bisa menggunakan sihir, tapi dia tetap bertekad untuk menjadi Raja Penyihir.</item>
+        <item>Gol D. Roger dikenal sebagai Raja Bajak Laut, Orang terkuat dan paling terkenal yang pernah mengarungi Grand Line. Penangkapan dan Eksekusi Roger oleh Pemerintahan Dunia telah membawa perubahan di seluruh dunia. Kata kata terakhir sebelum kematiannya mengungkapkan lokasi dari harta karun terbesar di dunia, One Piece. Inilah awal dari era bajak laut, semua orang bermimpi menemukan One Piece (yang mana menjanjikan harta dan tahta yang tak terhingga jumlahnya), dan tentunya merebut gelar dari orang yang pertama menemukannya, gelar Raja Bajak Laut. Monkey D Luffy.</item>
+        <item>Pada tahun 2022, realitas virtual telah berkembang pesat, dan game role-playing online besar bernama Sword Art Online (SAO) diluncurkan. Dengan bantuan teknologi “NerveGear”, para pemain dapat mengontrol avatar mereka di dalam game hanya dengan menggunakan pikiran mereka sendiri.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/img_kimetsu</item>
+        <item>@drawable/img_clover</item>
+        <item>@drawable/img_onepiece</item>
+        <item>@drawable/img_sao</item>
+    </integer-array>
+</resources>
